@@ -12,3 +12,5 @@
 2. Adicione no seu driver o arquivo dataset_final.zip ![Arquivo](imagens/2.png)
 Em My Drive, crie a pasta dataset e dentro dela coloque o arquivo dataset_final.zip
 3. Clique em executar tudo no colab
+
+### [Clique aqui para assistir o vídeo de apresentação](https://youtu.be/aIMuCPicCMQ)
